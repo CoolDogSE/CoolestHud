@@ -18,6 +18,7 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+	
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -25,6 +26,11 @@ Scheme
 		"GoalOrange"		"255 133 0"
 		"TFOrange"			"145 73 59 255"
 		"Purple"			"137 69 99 255"
+		"White"             "255 255 255 255"
+		"LightWhite"        "255 255 255 125"
+		"OceanBlue"         "0 128 255 255"
+		"TransparentWhite"  "0 0 0 0"
+		"UberBlue"          "37	124	218 255"
 
 		"QuestGold"			"208 147 75 255"
 		"HalloweenThemeColor2015_Light"	"238 126 17 255"
@@ -51,11 +57,11 @@ Scheme
 		"Yellow"			"251 235 202 255"
 		"TransparentYellow"	"251 235 202 140"
 		"BrightYellow"		"251 235 0 255"
-		//"Black"				"0 0 0 255"
+		"Black"				"0 0 0 255"
 		//Changed black to a NTSC safe color
 		"GreenSolid"		 "76 107 34 255"
 		
-		"Black"				"46 43 42 255"
+		//"Black"				"46 43 42 255"
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
 		"FooterBGBlack"		"52 48 55 255"
@@ -3028,92 +3034,134 @@ Scheme
 				"antialias" "1"
 			}
 		}
-	
-	
-		"surface12"
+		
+		// These are the fonts for Health and Ammo
+
+		
+		"bikoblack12"
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
-				"tall"		"15"
+				"name"		"Biko-Black"
+				"tall"		"12"
 				"antialias" "1"
 			}
 		}
-		"surface16"
+		
+		"bikoblack18"
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
-				"tall"		"16"
+				"name"		"Biko-Black"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}
-		"surface20"
+		
+		"bikoblack24"
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
-				"tall"		"20"
-				"antialias" "1"
-			}
-		}
-		"surface24"
-		{
-			"1"
-			{
-				"name"		"Surface-Medium"
+				"name"		"Biko-Black"
 				"tall"		"24"
+				"weight"	"500"
+				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"surface28"
+		
+		"bikoblack20"
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
-				"tall"		"28"
+				"name"		"Biko-Black"
+				"tall"		"20"
+				"weight"	"500"
+				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		"surface32"
+		
+		"bikoblack30"
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
-				"tall"		"32"
+				"name"		"Biko-Black"
+				"tall"		"30"
 				"antialias" "1"
 			}
 		}
-		"surface36"
+		
+		"bikoblack36"
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Biko-Black"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
-		"surface40"
+		
+		"bikoblack42"
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
-				"tall"		"40"
+				"name"		"Biko-Black"
+				"tall"		"42"
 				"antialias" "1"
 			}
 		}
-		"surface44"
+		
+		"bikoblack44"
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"Biko-Black"
 				"tall"		"44"
 				"antialias" "1"
 			}
 		}
+		
+		"bikoblack45"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"45"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack46"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack47"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"47"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack48"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
     }
-	
-    // The fonts I'm using
 	
 	
 
@@ -5925,24 +5973,23 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
-			"8"
-			{
-		       "font"   "resource/fonts/Surface.otf"
-			   "name"   "Surface-Medium"
-		    
-			}
-			"9"
-            {			
-		       "font"   "resource/fonts/Surface-Numbers.ttf"
-			   "name"   "SurfaceNumbers-Medium"
-		    
-			}
-			"10"
-		    {
-		       "font"   "resource/fonts/Surface-Sharpened.ttf"
-			   "name"   "SurfaceSharpened-Medium"
-		    
-			}
+		}
+		"8"
+		{
+			"font" "resource/fonts/Biko_Black.otf"
+			"name" "Biko-Black"
+		}
+		"9"
+		{
+			"font" "resource/fonts/Surface-Medium.otf"
+			"name" "Surface-Medium"
+		}
+		"10"
+		{
+			"font" "resource/fonts/NewakeFont-Demo.otf"
+			"name" "Newake Demo"
 		}
 	}
-}
+
+	
+
