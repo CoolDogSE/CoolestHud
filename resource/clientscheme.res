@@ -30,6 +30,7 @@ Scheme
 		"LightWhite"        "255 255 255 125"
 		"OceanBlue"         "0 128 255 255"
 		"TransparentWhite"  "0 0 0 0"
+		"LightGray"         "211 211 211 50"
 		"UberBlue"          "37	124	218 255"
 
 		"QuestGold"			"208 147 75 255"
@@ -3038,6 +3039,117 @@ Scheme
 		// These are the fonts for Health and Ammo
 
 		
+		"bikoblack1"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"1"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack2"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"2"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack3"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"3"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack4"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"4"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack5"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"5"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack6"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"6"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack7"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"7"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack8"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack9"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"9"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack10"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack11"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"11"
+				"antialias" "1"
+			}
+		}
+		
+		
 		"bikoblack12"
 		{
 			"1"
@@ -3048,12 +3160,112 @@ Scheme
 			}
 		}
 		
+		"bikoblack13"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack14"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack15"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"15"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack16"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack17"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"17"
+				"antialias" "1"
+			}
+		}
+		
 		"bikoblack18"
 		{
 			"1"
 			{
 				"name"		"Biko-Black"
 				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack19"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"19"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack20"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack21"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"21"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack22"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"22"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack23"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"23"
 				"antialias" "1"
 			}
 		}
@@ -3070,24 +3282,112 @@ Scheme
 			}
 		}
 		
-		"bikoblack20"
+		"bikoblack25"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"25"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack26"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"26"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack27"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"27"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack28"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack29"
 		{
 			"1"
 			{
 				"name"		"Biko-Black"
 				"tall"		"20"
-				"weight"	"500"
-				"additive"	"0"
 				"antialias" "1"
 			}
 		}
-		
+				
 		"bikoblack30"
 		{
 			"1"
 			{
 				"name"		"Biko-Black"
 				"tall"		"30"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack31"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"31"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack32"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack33"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"33"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack34"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack35"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"35"
 				"antialias" "1"
 			}
 		}
@@ -3102,12 +3402,72 @@ Scheme
 			}
 		}
 		
+		"bikoblack37"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"37"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack38"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"38"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack39"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"39"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack40"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack41"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"41"
+				"antialias" "1"
+			}
+		}
+		
 		"bikoblack42"
 		{
 			"1"
 			{
 				"name"		"Biko-Black"
 				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		"bikoblack43"
+		{
+			"1"
+			{
+				"name"		"Biko-Black"
+				"tall"		"43"
 				"antialias" "1"
 			}
 		}
@@ -3157,6 +3517,489 @@ Scheme
 			"1"
 			{
 				"name"		"Biko-Black"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		
+		//This Is what I use for text
+		
+		
+		"newakebold1"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"1"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold2"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"2"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold3"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"3"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold4"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"4"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold5"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"5"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold6"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"6"
+				"antialias" "1"
+			}
+		}
+		
+	    "newakebold7"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"7"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold8"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold9"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"9"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold10"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold11"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"11"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold12"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold13"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold14"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold15"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"15"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold16"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold17"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"17"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold18"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold19"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"19"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold20"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold21"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"21"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold22"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"22"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold23"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"23"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold24"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold25"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"25"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold26"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"26"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold27"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"27"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold28"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold29"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"29"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold30"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"30"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold31"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"31"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold32"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold33"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"33"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold34"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold35"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"35"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold36"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold37"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"37"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold38"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"38"
+				"antialias" "1"
+			}
+		}
+		
+	    "newakebold39"
+		{
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"39"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold40"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold41"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"41"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold42"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold43"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"43"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold44"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		"newakebold45"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"45"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold46"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold47"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
+				"tall"		"47"
+				"antialias" "1"
+			}
+		}
+		
+		"newakebold48"
+	    {
+			"1"
+			{
+				"name"		"Newake Demo"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -5980,11 +6823,6 @@ Scheme
 			"name" "Biko-Black"
 		}
 		"9"
-		{
-			"font" "resource/fonts/Surface-Medium.otf"
-			"name" "Surface-Medium"
-		}
-		"10"
 		{
 			"font" "resource/fonts/NewakeFont-Demo.otf"
 			"name" "Newake Demo"

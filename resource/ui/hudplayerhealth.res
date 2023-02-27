@@ -41,7 +41,6 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
 		"xpos"			"73"
-		"xpos_minmode"	"58"
 		"ypos"			"33"
 		"zpos"			"3"
 		"wide"			"55"
@@ -130,7 +129,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusMaxHealthValue"
 		"xpos"			"75"
-		"ypos"			"20"	[$WIN32]
+		"ypos"			"15"	[$WIN32]
 		"zpos"			"6"
 		"wide"			"50"
 		"tall"			"18"
@@ -146,7 +145,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusMaxHealthValueBG"
 		"xpos"			"-23"
-		"ypos"			"-30"	[$WIN32]
+		"ypos"			"-35"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"250"
 		"tall"			"120"

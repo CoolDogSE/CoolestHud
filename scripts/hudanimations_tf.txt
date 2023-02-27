@@ -346,9 +346,9 @@ event FlagOutline
 // Spy Disguise
 event HudSpyDisguiseChanged
 {
-	Animate PlayerStatusSpyOutlineImage		Alpha		"255"			Linear 0.0 0.2
+	Animate PlayerStatusSpyOutlineImage		Alpha		"0"			Linear 0.0 0.2
 	
-	Animate PlayerStatusSpyOutlineImage		Position	"60 330"	Linear 0.0 0.2
+	Animate PlayerStatusSpyOutlineImage		Position	"280 190"	Linear 0.0 0.2
 	Animate PlayerStatusSpyOutlineImage		Size		"100 100"		Linear 0.0 0.2
 
 	RunEvent HudSpyDisguiseHide	0.7
@@ -356,7 +356,7 @@ event HudSpyDisguiseChanged
 
 event HudSpyDisguiseHide
 {
-	Animate PlayerStatusSpyOutlineImage		Position	"3 413"			Linear 0.0 0.2
+	Animate PlayerStatusSpyOutlineImage		Position	"90 370"			Linear 0.0 0.2
 	Animate PlayerStatusSpyOutlineImage		Size		"55 55"			Linear 0.0 0.2
 	
 	Animate PlayerStatusSpyOutlineImage		Alpha		"0"				Linear 0.2 0.1
@@ -433,13 +433,15 @@ event HudTournamentSetupPanelClose
 
 event HudMedicCharged
 {
-	Animate	ChargeLabel 	FgColor		"White"		Linear 0.0 0.1
-	Animate	ChargeLabel 	FgColor		"UberBlue"		Linear 0.3 0.4
+	Animate	ChargeLabel 	FgColor		"0 128 255 255"		Linear 0.0 0.3
+	Animate	ChargeLabel 	FgColor		"0 255 255 255"		Linear 0.3 0.3
+	Animate	ChargeLabel 	FgColor		"0 255 0 255"		Linear 0.6 0.3
 	
-	Animate	ChargeMeter 	FgColor		"White"		Linear 0.0 0.1
-	Animate	ChargeMeter 	FgColor		"UberBlue"		Linear 0.3 0.4
+	Animate	ChargeMeter 	FgColor		"0 128 255 255"		Linear 0.0 0.3
+	Animate	ChargeMeter 	FgColor		"0 255 255 255"		Linear 0.3 0.3
+	Animate	ChargeMeter 	FgColor		"0 255 0 255"		Linear 0.6 0.3
 
-	RunEvent HudMedicChargedLoop	0.6
+	RunEvent HudMedicChargedLoop	0.9
 }
 
 // call to loop HudHealthBonusPulse
@@ -453,8 +455,8 @@ event HudMedicChargedStop
 	StopEvent HudMedicCharged 0.0
 	StopEvent HudMedicChargedLoop 0.0
 	
-	Animate	ChargeLabel 	FgColor		"TanLight"		Linear 0.0 0.0001
-	Animate	ChargeMeter 	FgColor		"TanLight"		Linear 0.0 0.0001
+	Animate	ChargeLabel 	FgColor		"White"		Linear 0.0 0.0001
+	Animate	ChargeMeter 	FgColor		"0 128 255 255"		Linear 0.0 0.0001
 }
 
 //====================================
